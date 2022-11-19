@@ -12,5 +12,6 @@ public class OkeKhong {
     public void show()
     {
         System.out.println("Oke khong");
+        System.out.println("Duoc nha");
     }
 }
