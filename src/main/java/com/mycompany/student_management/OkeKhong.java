@@ -13,5 +13,6 @@ public class OkeKhong {
     {
         System.out.println("Oke khong");
         System.out.println("Duoc nha");
+        System.out.println("Khong co gi nha");
     }
 }
